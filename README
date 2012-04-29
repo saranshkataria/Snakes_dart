@@ -2,3 +2,9 @@ Open Source Project Made by Saransh Kataria, BVCOE
 CSE
 07011502710
 Everyone is free to use and modify.
+For all those who don't have Dartium Browser, change line number 19 from:
+<script type="application/dart" src="Snakes.dart"></script>
+to
+<script type="text/javascript" src="Snakes.dart.js"></script>
+and then execute :)
+Any suggestions or problems are welcome at saranshkataria7@gmail.com
