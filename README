@@ -10,7 +10,7 @@ and then execute :)
 Any suggestions or problems are welcome at saranshkataria7@gmail.com
 
 Rules:
-Its a unit length snake, the red pixel is your snake) and the yellow is your bonus point.
+Its a unit length snake, (the red pixel is your snake) and the yellow is your bonus point.
 Use the w,a,s,d keys to move.
 The speed of execution decreases after every time you eat the bonus.
 Enjoy playing ;)
